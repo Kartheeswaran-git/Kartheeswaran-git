@@ -76,7 +76,7 @@
 
 
 
-## Latest GitHub Activity
+<!--## Latest GitHub Activity
 
 
 
@@ -87,7 +87,7 @@
 <!--END_SECTION:activity-->
 
 
-
+-->
 ---
 
 
