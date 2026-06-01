@@ -1,4 +1,4 @@
-<h1 align="center" font=Poppins&size=32&pause=1000&color=00FF66&center=true&vCenter=true&width=800>👋 Kartheeswaran</h1>
+<h1 align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Kartheeswaran" /></h1>
 
 
 
