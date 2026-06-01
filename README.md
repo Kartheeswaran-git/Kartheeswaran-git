@@ -153,17 +153,17 @@
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kartheeswaran-git&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartheeswaran-git&layout=compact&theme=tokyonight"/>
 
-</p>
+</p> -->
 
 
 
@@ -193,7 +193,7 @@
 
 ---
 
-
+<!--
 
 ## 🏆 GitHub Trophies
 
@@ -204,7 +204,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Kartheeswaran-git&theme=onedark&row=1&column=7"/>
 
 </p>
-
+-->
 
 
 ---
@@ -217,9 +217,9 @@
 
 * GitHub: https://github.com/Kartheeswaran-git
 
-* LinkedIn: Add Your LinkedIn Link
+* LinkedIn:https://www.linkedin.com/in/kartheeswaran-s-2543a7291/ 
 
-* Email: Add Your Email
+* Email: kartheeswaran2201@gmail.com
 
 
 
