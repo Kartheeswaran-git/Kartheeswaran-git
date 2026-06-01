@@ -1,13 +1,4 @@
-<h1 align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Kartheeswaran" /></h1>
-
-
-
-<p align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=AI+%26+IoT+Developer;ESP32+Enthusiast;Machine+Learning+Explorer;Web+Developer;Building+Smart+Projects" />
-
-</p>
-
+<h1 align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=white&center=true&vCenter=true&width=800&lines=Hi, I am Kartheeswaran S" /></h1>
 
 
 ---
