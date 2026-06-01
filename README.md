@@ -1,79 +1,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Kartheeswaran+S" />
 </p>
-## About Me
-
-
-
+<!-- ## About Me
 * Computer Science Student
-
 * Working on AI, IoT and Machine Learning Projects
-
 * Building Smart Agriculture Solutions
-
 * Developing ESP32 Based Automation Systems
-
 * Creating Web Applications with Modern Technologies
-
 * Always Learning New Technologies
-
 * Open for Collaboration and Projects
-
-
-
----
-
-
-
 ## Current Projects
-
-
-
-
 ### Smart Agriculture Automation
-
-
-
 * Smart Irrigation
-
 * Pest Detection
-
 * Crop Monitoring
-
 * Mobile App Control
-
-
-
-### Velan Mobiles Billing System
-
-
-
-* Sales Management
-
-* Purchase Tracking
-
-* Service Management
-
-* Customer Records
-
-
-
-### Health Monitoring Dashboard
-
-
-
-* ESP32
-
-* MAX30102 Sensor
-
-* DHT22
-
-* Real-Time Web Dashboard
-
-
-
----
-
 
 
 <!--## Latest GitHub Activity
