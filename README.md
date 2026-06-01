@@ -1,10 +1,6 @@
-<h1 align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=#FFFFFF&center=true&vCenter=true&width=800&lines=Hi, I am Kartheeswaran S" /></h1>
-
-
----
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Kartheeswaran+S" />
+</p>
 ## 👨‍💻 About Me
 
 
