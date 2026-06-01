@@ -1,23 +1,23 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Kartheeswaran+S" />
 </p>
-## 👨‍💻 About Me
+## About Me
 
 
 
-* 🎓 Computer Science Student
+* Computer Science Student
 
-* 🤖 Working on AI, IoT and Machine Learning Projects
+* Working on AI, IoT and Machine Learning Projects
 
-* 🌱 Building Smart Agriculture Solutions
+* Building Smart Agriculture Solutions
 
-* 📡 Developing ESP32 Based Automation Systems
+* Developing ESP32 Based Automation Systems
 
-* 💻 Creating Web Applications with Modern Technologies
+* Creating Web Applications with Modern Technologies
 
-* 🚀 Always Learning New Technologies
+* Always Learning New Technologies
 
-* 🤝 Open for Collaboration and Projects
+* Open for Collaboration and Projects
 
 
 
@@ -25,23 +25,12 @@
 
 
 
-## 🔥 Current Projects
+## Current Projects
 
 
 
-### 🐘 Elephant Detection & Alert System
 
-
-
-* ESP32-CAM
-
-* AI Object Detection
-
-* SIM900A Call Alert System
-
-
-
-### 🌱 Smart Agriculture Automation
+### Smart Agriculture Automation
 
 
 
@@ -55,7 +44,7 @@
 
 
 
-### 📱 Velan Mobiles Billing System
+### Velan Mobiles Billing System
 
 
 
@@ -69,7 +58,7 @@
 
 
 
-### ❤️ Health Monitoring Dashboard
+### Health Monitoring Dashboard
 
 
 
@@ -87,7 +76,7 @@
 
 
 
-## 🔄 Latest GitHub Activity
+## Latest GitHub Activity
 
 
 
@@ -103,53 +92,34 @@
 
 
 
-## 🛠️ Tech Stack
-
-
+## Tech Stack
 
 ### Programming Languages
 
-
-
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
-
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=openjdk)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-
-
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+</p>
 
 ### Web Development
 
-
-
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
-
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
-
-
+<p>
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js" />
+</p>
 
 ### IoT & Cloud
 
-
-
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
-
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge\&logo=firebase)
-
-![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge\&logo=supabase)
-
-
-
----
+<p>
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase" />
+</p>
 
 
 
@@ -179,7 +149,7 @@
 
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 
 
@@ -195,7 +165,7 @@
 
 <!--
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 
 
@@ -211,7 +181,7 @@
 
 
 
-## 📫 Connect With Me
+##Connect With Me
 
 
 
@@ -227,7 +197,7 @@
 
 
 
-### 💡 Quote
+### Quote
 
 
 
@@ -235,4 +205,4 @@
 
 
 
-⭐ Thanks for visiting my profile!
+Thanks You !
