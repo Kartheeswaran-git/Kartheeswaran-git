@@ -1,4 +1,4 @@
-<h1 align="center">👋 Kartheeswaran</h1>
+<h1 align="center" font=Poppins&size=32&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=AI+%26+IoT+Developer;ESP32+Enthusiast;Machine+Learning+Explorer;Web+Developer;Building+Smart+Projects">👋 Kartheeswaran</h1>
 
 
 
