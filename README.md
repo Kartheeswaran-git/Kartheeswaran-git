@@ -10,7 +10,7 @@
 * Always Learning New Technologies
 * Open for Collaboration and Projects
 ## Current Projects
-### Smart Agriculture Automation
+### Smart Agricult ure Automation
 * Smart Irrigation
 * Pest Detection
 * Crop Monitoring
